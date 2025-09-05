@@ -2,7 +2,8 @@
 
 I made this project cause after watching this really cool video https://www.youtube.com/watch?v=CSa5O6knuwI about Minecraft terrain generation, to explore Perlin noise i.e math and code to generate terrain.
 
-![Keep Walking Screenshot](Render)
+<img width="1509" height="680" alt="image" src="https://github.com/user-attachments/assets/b3901ffe-eb6c-4c78-97b8-e6a33b96568d" />
+
 
 Keep Walking is a browser-based 3D exploration game built with Procedural Terrain Generation using Perlin noise
 
